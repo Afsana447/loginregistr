@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.login-section{
+	width: 100%;
+}
+
+.login-box{
+	width: 600px;
+	margin: 0px auto;
+
+}
